@@ -49,10 +49,6 @@ void sapxep(Sinhvien *sv, int n){
     sort(sv, sv+n, dieukien);
 }
 
-// void print(Sinhvien sv[], int n){
-    
-// }
-
 int main(){
     int n;
     cin >> n;
